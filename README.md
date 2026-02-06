@@ -24,4 +24,4 @@
 - data/ — описание структуры данных (без самих данных)
 
 ## Используемые инструменты
-Python (pandas, matplotlib, seaborn, statsmodels), Jupyter Notebook
+Python (numpy, pandas, matplotlib, seaborn), Jupyter Notebook
